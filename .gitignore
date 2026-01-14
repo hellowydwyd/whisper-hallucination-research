@@ -3,6 +3,10 @@ data/non_speech/
 data/speech/
 data/LibriSpeech/
 
+# 论文和PPT（不公开）
+PPT.pdf
+report/
+
 # Python
 __pycache__/
 *.py[cod]
