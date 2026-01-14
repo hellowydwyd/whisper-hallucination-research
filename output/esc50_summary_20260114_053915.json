@@ -1,0 +1,112 @@
+{
+  "model": "large-v3",
+  "dataset": "ESC-50",
+  "total_samples": 2000,
+  "hallucination_count": 1250,
+  "hallucination_rate": 0.625,
+  "looping_rate": 0.036,
+  "by_super_category": {
+    "animals": {
+      "count": 400,
+      "hallucination_rate": 0.44
+    },
+    "exterior": {
+      "count": 400,
+      "hallucination_rate": 0.66
+    },
+    "human_non_speech": {
+      "count": 400,
+      "hallucination_rate": 0.5575
+    },
+    "interior": {
+      "count": 400,
+      "hallucination_rate": 0.6775
+    },
+    "natural": {
+      "count": 400,
+      "hallucination_rate": 0.79
+    }
+  },
+  "top_hallucinations": [
+    [
+      "Thank you.",
+      617
+    ],
+    [
+      "Thanks for watching!",
+      134
+    ],
+    [
+      ".",
+      68
+    ],
+    [
+      "Oh",
+      23
+    ],
+    [
+      "you",
+      20
+    ],
+    [
+      "Thank you for watching!",
+      14
+    ],
+    [
+      "Beeping",
+      12
+    ],
+    [
+      "© BF-WATCH TV 2021",
+      9
+    ],
+    [
+      "You",
+      8
+    ],
+    [
+      "Cough, cough, cough.",
+      7
+    ],
+    [
+      "Meow!",
+      7
+    ],
+    [
+      "BANG!",
+      6
+    ],
+    [
+      "Oh, my God.",
+      6
+    ],
+    [
+      "I'm sorry.",
+      6
+    ],
+    [
+      "Meow! Meow!",
+      5
+    ],
+    [
+      "I don't know.",
+      4
+    ],
+    [
+      "Meow.",
+      4
+    ],
+    [
+      "I",
+      4
+    ],
+    [
+      "Yeah.",
+      3
+    ],
+    [
+      "Woof!",
+      3
+    ]
+  ]
+}

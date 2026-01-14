@@ -1,0 +1,25 @@
+{
+  "model": "large-v3",
+  "total_samples": 145,
+  "methods": {
+    "raw": {
+      "hallucination_rate": 0.7724137931034483,
+      "avg_char_count": 9.172413793103448
+    },
+    "vad": {
+      "hallucination_rate": 0.5793103448275863,
+      "avg_char_count": 7.213793103448276,
+      "reduction": 0.24999999999999992
+    },
+    "boh": {
+      "hallucination_rate": 0.20689655172413793,
+      "avg_char_count": 2.282758620689655,
+      "reduction": 0.7321428571428572
+    },
+    "combined": {
+      "hallucination_rate": 0.2,
+      "avg_char_count": 2.2482758620689656,
+      "reduction": 0.7410714285714286
+    }
+  }
+}

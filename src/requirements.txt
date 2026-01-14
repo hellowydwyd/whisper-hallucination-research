@@ -1,0 +1,33 @@
+# Whisper ASR 幻觉研究实验环境依赖
+# 在 d2l conda 环境下安装: pip install -r requirements.txt
+
+# OpenAI Whisper 模型
+openai-whisper>=20231117
+
+# PyTorch (如果 d2l 环境已有可跳过)
+# torch>=2.0.0
+# torchaudio>=2.0.0
+
+# 音频处理
+librosa>=0.10.0
+soundfile>=0.12.0
+pydub>=0.25.1
+
+# VAD (Voice Activity Detection)
+webrtcvad>=2.0.10
+silero-vad>=4.0.0
+
+# 数据处理与可视化
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+tqdm>=4.65.0
+
+# 文本处理 (用于 BoH 检测)
+pyahocorasick>=2.0.0
+jiwer>=3.0.0  # WER 计算
+
+# 数据集下载
+datasets>=2.14.0
+huggingface_hub>=0.16.0

@@ -1,0 +1,712 @@
+[
+  {
+    "audio_type": "silence",
+    "duration": 1,
+    "sample_id": 0,
+    "transcription": "Thank you.",
+    "is_hallucination": true,
+    "is_looping": false,
+    "boh_matches": [
+      "thank you",
+      "you"
+    ],
+    "char_count": 10
+  },
+  {
+    "audio_type": "silence",
+    "duration": 1,
+    "sample_id": 1,
+    "transcription": "Thank you.",
+    "is_hallucination": true,
+    "is_looping": false,
+    "boh_matches": [
+      "thank you",
+      "you"
+    ],
+    "char_count": 10
+  },
+  {
+    "audio_type": "silence",
+    "duration": 1,
+    "sample_id": 2,
+    "transcription": "Thank you.",
+    "is_hallucination": true,
+    "is_looping": false,
+    "boh_matches": [
+      "thank you",
+      "you"
+    ],
+    "char_count": 10
+  },
+  {
+    "audio_type": "silence",
+    "duration": 1,
+    "sample_id": 3,
+    "transcription": "Thank you.",
+    "is_hallucination": true,
+    "is_looping": false,
+    "boh_matches": [
+      "thank you",
+      "you"
+    ],
+    "char_count": 10
+  },
+  {
+    "audio_type": "silence",
+    "duration": 1,
+    "sample_id": 4,
+    "transcription": "Thank you.",
+    "is_hallucination": true,
+    "is_looping": false,
+    "boh_matches": [
+      "thank you",
+      "you"
+    ],
+    "char_count": 10
+  },
+  {
+    "audio_type": "silence",
+    "duration": 5,
+    "sample_id": 0,
+    "transcription": "Thank you.",
+    "is_hallucination": true,
+    "is_looping": false,
+    "boh_matches": [
+      "thank you",
+      "you"
+    ],
+    "char_count": 10
+  },
+  {
+    "audio_type": "silence",
+    "duration": 5,
+    "sample_id": 1,
+    "transcription": "Thank you.",
+    "is_hallucination": true,
+    "is_looping": false,
+    "boh_matches": [
+      "thank you",
+      "you"
+    ],
+    "char_count": 10
+  },
+  {
+    "audio_type": "silence",
+    "duration": 5,
+    "sample_id": 2,
+    "transcription": "Thank you.",
+    "is_hallucination": true,
+    "is_looping": false,
+    "boh_matches": [
+      "thank you",
+      "you"
+    ],
+    "char_count": 10
+  },
+  {
+    "audio_type": "silence",
+    "duration": 5,
+    "sample_id": 3,
+    "transcription": "Thank you.",
+    "is_hallucination": true,
+    "is_looping": false,
+    "boh_matches": [
+      "thank you",
+      "you"
+    ],
+    "char_count": 10
+  },
+  {
+    "audio_type": "silence",
+    "duration": 5,
+    "sample_id": 4,
+    "transcription": "Thank you.",
+    "is_hallucination": true,
+    "is_looping": false,
+    "boh_matches": [
+      "thank you",
+      "you"
+    ],
+    "char_count": 10
+  },
+  {
+    "audio_type": "silence",
+    "duration": 10,
+    "sample_id": 0,
+    "transcription": "Thank you.",
+    "is_hallucination": true,
+    "is_looping": false,
+    "boh_matches": [
+      "thank you",
+      "you"
+    ],
+    "char_count": 10
+  },
+  {
+    "audio_type": "silence",
+    "duration": 10,
+    "sample_id": 1,
+    "transcription": "Thank you.",
+    "is_hallucination": true,
+    "is_looping": false,
+    "boh_matches": [
+      "thank you",
+      "you"
+    ],
+    "char_count": 10
+  },
+  {
+    "audio_type": "silence",
+    "duration": 10,
+    "sample_id": 2,
+    "transcription": "Thank you.",
+    "is_hallucination": true,
+    "is_looping": false,
+    "boh_matches": [
+      "thank you",
+      "you"
+    ],
+    "char_count": 10
+  },
+  {
+    "audio_type": "silence",
+    "duration": 10,
+    "sample_id": 3,
+    "transcription": "Thank you.",
+    "is_hallucination": true,
+    "is_looping": false,
+    "boh_matches": [
+      "thank you",
+      "you"
+    ],
+    "char_count": 10
+  },
+  {
+    "audio_type": "silence",
+    "duration": 10,
+    "sample_id": 4,
+    "transcription": "Thank you.",
+    "is_hallucination": true,
+    "is_looping": false,
+    "boh_matches": [
+      "thank you",
+      "you"
+    ],
+    "char_count": 10
+  },
+  {
+    "audio_type": "silence",
+    "duration": 20,
+    "sample_id": 0,
+    "transcription": "Thank you.",
+    "is_hallucination": true,
+    "is_looping": false,
+    "boh_matches": [
+      "thank you",
+      "you"
+    ],
+    "char_count": 10
+  },
+  {
+    "audio_type": "silence",
+    "duration": 20,
+    "sample_id": 1,
+    "transcription": "Thank you.",
+    "is_hallucination": true,
+    "is_looping": false,
+    "boh_matches": [
+      "thank you",
+      "you"
+    ],
+    "char_count": 10
+  },
+  {
+    "audio_type": "silence",
+    "duration": 20,
+    "sample_id": 2,
+    "transcription": "Thank you.",
+    "is_hallucination": true,
+    "is_looping": false,
+    "boh_matches": [
+      "thank you",
+      "you"
+    ],
+    "char_count": 10
+  },
+  {
+    "audio_type": "silence",
+    "duration": 20,
+    "sample_id": 3,
+    "transcription": "Thank you.",
+    "is_hallucination": true,
+    "is_looping": false,
+    "boh_matches": [
+      "thank you",
+      "you"
+    ],
+    "char_count": 10
+  },
+  {
+    "audio_type": "silence",
+    "duration": 20,
+    "sample_id": 4,
+    "transcription": "Thank you.",
+    "is_hallucination": true,
+    "is_looping": false,
+    "boh_matches": [
+      "thank you",
+      "you"
+    ],
+    "char_count": 10
+  },
+  {
+    "audio_type": "silence",
+    "duration": 30,
+    "sample_id": 0,
+    "transcription": "you",
+    "is_hallucination": true,
+    "is_looping": false,
+    "boh_matches": [
+      "you"
+    ],
+    "char_count": 3
+  },
+  {
+    "audio_type": "silence",
+    "duration": 30,
+    "sample_id": 1,
+    "transcription": "you",
+    "is_hallucination": true,
+    "is_looping": false,
+    "boh_matches": [
+      "you"
+    ],
+    "char_count": 3
+  },
+  {
+    "audio_type": "silence",
+    "duration": 30,
+    "sample_id": 2,
+    "transcription": "you",
+    "is_hallucination": true,
+    "is_looping": false,
+    "boh_matches": [
+      "you"
+    ],
+    "char_count": 3
+  },
+  {
+    "audio_type": "silence",
+    "duration": 30,
+    "sample_id": 3,
+    "transcription": "you",
+    "is_hallucination": true,
+    "is_looping": false,
+    "boh_matches": [
+      "you"
+    ],
+    "char_count": 3
+  },
+  {
+    "audio_type": "silence",
+    "duration": 30,
+    "sample_id": 4,
+    "transcription": "you",
+    "is_hallucination": true,
+    "is_looping": false,
+    "boh_matches": [
+      "you"
+    ],
+    "char_count": 3
+  },
+  {
+    "audio_type": "white_noise",
+    "duration": 1,
+    "sample_id": 0,
+    "transcription": "Thank you.",
+    "is_hallucination": true,
+    "is_looping": false,
+    "boh_matches": [
+      "thank you",
+      "you"
+    ],
+    "char_count": 10
+  },
+  {
+    "audio_type": "white_noise",
+    "duration": 1,
+    "sample_id": 1,
+    "transcription": "Thank you.",
+    "is_hallucination": true,
+    "is_looping": false,
+    "boh_matches": [
+      "thank you",
+      "you"
+    ],
+    "char_count": 10
+  },
+  {
+    "audio_type": "white_noise",
+    "duration": 1,
+    "sample_id": 2,
+    "transcription": "Thank you.",
+    "is_hallucination": true,
+    "is_looping": false,
+    "boh_matches": [
+      "thank you",
+      "you"
+    ],
+    "char_count": 10
+  },
+  {
+    "audio_type": "white_noise",
+    "duration": 5,
+    "sample_id": 0,
+    "transcription": "Thank you.",
+    "is_hallucination": true,
+    "is_looping": false,
+    "boh_matches": [
+      "thank you",
+      "you"
+    ],
+    "char_count": 10
+  },
+  {
+    "audio_type": "white_noise",
+    "duration": 5,
+    "sample_id": 1,
+    "transcription": "Thank you.",
+    "is_hallucination": true,
+    "is_looping": false,
+    "boh_matches": [
+      "thank you",
+      "you"
+    ],
+    "char_count": 10
+  },
+  {
+    "audio_type": "white_noise",
+    "duration": 5,
+    "sample_id": 2,
+    "transcription": "Thank you.",
+    "is_hallucination": true,
+    "is_looping": false,
+    "boh_matches": [
+      "thank you",
+      "you"
+    ],
+    "char_count": 10
+  },
+  {
+    "audio_type": "white_noise",
+    "duration": 10,
+    "sample_id": 0,
+    "transcription": "Thank you.",
+    "is_hallucination": true,
+    "is_looping": false,
+    "boh_matches": [
+      "thank you",
+      "you"
+    ],
+    "char_count": 10
+  },
+  {
+    "audio_type": "white_noise",
+    "duration": 10,
+    "sample_id": 1,
+    "transcription": "Thank you.",
+    "is_hallucination": true,
+    "is_looping": false,
+    "boh_matches": [
+      "thank you",
+      "you"
+    ],
+    "char_count": 10
+  },
+  {
+    "audio_type": "white_noise",
+    "duration": 10,
+    "sample_id": 2,
+    "transcription": "Thank you.",
+    "is_hallucination": true,
+    "is_looping": false,
+    "boh_matches": [
+      "thank you",
+      "you"
+    ],
+    "char_count": 10
+  },
+  {
+    "audio_type": "white_noise",
+    "duration": 20,
+    "sample_id": 0,
+    "transcription": "Thank you.",
+    "is_hallucination": true,
+    "is_looping": false,
+    "boh_matches": [
+      "thank you",
+      "you"
+    ],
+    "char_count": 10
+  },
+  {
+    "audio_type": "white_noise",
+    "duration": 20,
+    "sample_id": 1,
+    "transcription": "Thank you.",
+    "is_hallucination": true,
+    "is_looping": false,
+    "boh_matches": [
+      "thank you",
+      "you"
+    ],
+    "char_count": 10
+  },
+  {
+    "audio_type": "white_noise",
+    "duration": 20,
+    "sample_id": 2,
+    "transcription": "Thank you.",
+    "is_hallucination": true,
+    "is_looping": false,
+    "boh_matches": [
+      "thank you",
+      "you"
+    ],
+    "char_count": 10
+  },
+  {
+    "audio_type": "white_noise",
+    "duration": 30,
+    "sample_id": 0,
+    "transcription": "Thank you.",
+    "is_hallucination": true,
+    "is_looping": false,
+    "boh_matches": [
+      "thank you",
+      "you"
+    ],
+    "char_count": 10
+  },
+  {
+    "audio_type": "white_noise",
+    "duration": 30,
+    "sample_id": 1,
+    "transcription": "Thank you.",
+    "is_hallucination": true,
+    "is_looping": false,
+    "boh_matches": [
+      "thank you",
+      "you"
+    ],
+    "char_count": 10
+  },
+  {
+    "audio_type": "white_noise",
+    "duration": 30,
+    "sample_id": 2,
+    "transcription": "Thank you.",
+    "is_hallucination": true,
+    "is_looping": false,
+    "boh_matches": [
+      "thank you",
+      "you"
+    ],
+    "char_count": 10
+  },
+  {
+    "audio_type": "pink_noise",
+    "duration": 1,
+    "sample_id": 0,
+    "transcription": "Thank you.",
+    "is_hallucination": true,
+    "is_looping": false,
+    "boh_matches": [
+      "thank you",
+      "you"
+    ],
+    "char_count": 10
+  },
+  {
+    "audio_type": "pink_noise",
+    "duration": 1,
+    "sample_id": 1,
+    "transcription": "Thank you.",
+    "is_hallucination": true,
+    "is_looping": false,
+    "boh_matches": [
+      "thank you",
+      "you"
+    ],
+    "char_count": 10
+  },
+  {
+    "audio_type": "pink_noise",
+    "duration": 1,
+    "sample_id": 2,
+    "transcription": "Thank you.",
+    "is_hallucination": true,
+    "is_looping": false,
+    "boh_matches": [
+      "thank you",
+      "you"
+    ],
+    "char_count": 10
+  },
+  {
+    "audio_type": "pink_noise",
+    "duration": 5,
+    "sample_id": 0,
+    "transcription": "Thank you.",
+    "is_hallucination": true,
+    "is_looping": false,
+    "boh_matches": [
+      "thank you",
+      "you"
+    ],
+    "char_count": 10
+  },
+  {
+    "audio_type": "pink_noise",
+    "duration": 5,
+    "sample_id": 1,
+    "transcription": "Thank you.",
+    "is_hallucination": true,
+    "is_looping": false,
+    "boh_matches": [
+      "thank you",
+      "you"
+    ],
+    "char_count": 10
+  },
+  {
+    "audio_type": "pink_noise",
+    "duration": 5,
+    "sample_id": 2,
+    "transcription": "Thank you.",
+    "is_hallucination": true,
+    "is_looping": false,
+    "boh_matches": [
+      "thank you",
+      "you"
+    ],
+    "char_count": 10
+  },
+  {
+    "audio_type": "pink_noise",
+    "duration": 10,
+    "sample_id": 0,
+    "transcription": "Thank you.",
+    "is_hallucination": true,
+    "is_looping": false,
+    "boh_matches": [
+      "thank you",
+      "you"
+    ],
+    "char_count": 10
+  },
+  {
+    "audio_type": "pink_noise",
+    "duration": 10,
+    "sample_id": 1,
+    "transcription": "Thank you.",
+    "is_hallucination": true,
+    "is_looping": false,
+    "boh_matches": [
+      "thank you",
+      "you"
+    ],
+    "char_count": 10
+  },
+  {
+    "audio_type": "pink_noise",
+    "duration": 10,
+    "sample_id": 2,
+    "transcription": "Thank you.",
+    "is_hallucination": true,
+    "is_looping": false,
+    "boh_matches": [
+      "thank you",
+      "you"
+    ],
+    "char_count": 10
+  },
+  {
+    "audio_type": "pink_noise",
+    "duration": 20,
+    "sample_id": 0,
+    "transcription": "Thank you.",
+    "is_hallucination": true,
+    "is_looping": false,
+    "boh_matches": [
+      "thank you",
+      "you"
+    ],
+    "char_count": 10
+  },
+  {
+    "audio_type": "pink_noise",
+    "duration": 20,
+    "sample_id": 1,
+    "transcription": "Thank you.",
+    "is_hallucination": true,
+    "is_looping": false,
+    "boh_matches": [
+      "thank you",
+      "you"
+    ],
+    "char_count": 10
+  },
+  {
+    "audio_type": "pink_noise",
+    "duration": 20,
+    "sample_id": 2,
+    "transcription": "Thank you.",
+    "is_hallucination": true,
+    "is_looping": false,
+    "boh_matches": [
+      "thank you",
+      "you"
+    ],
+    "char_count": 10
+  },
+  {
+    "audio_type": "pink_noise",
+    "duration": 30,
+    "sample_id": 0,
+    "transcription": "Thank you.",
+    "is_hallucination": true,
+    "is_looping": false,
+    "boh_matches": [
+      "thank you",
+      "you"
+    ],
+    "char_count": 10
+  },
+  {
+    "audio_type": "pink_noise",
+    "duration": 30,
+    "sample_id": 1,
+    "transcription": "Thank you.",
+    "is_hallucination": true,
+    "is_looping": false,
+    "boh_matches": [
+      "thank you",
+      "you"
+    ],
+    "char_count": 10
+  },
+  {
+    "audio_type": "pink_noise",
+    "duration": 30,
+    "sample_id": 2,
+    "transcription": "Thank you.",
+    "is_hallucination": true,
+    "is_looping": false,
+    "boh_matches": [
+      "thank you",
+      "you"
+    ],
+    "char_count": 10
+  }
+]

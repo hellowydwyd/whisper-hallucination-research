@@ -1,0 +1,94 @@
+{
+  "non_speech_test": {
+    "model_size": "large-v3",
+    "total_samples": 55,
+    "hallucination_rate": 1.0,
+    "looping_rate": 0.0,
+    "by_audio_type": {
+      "silence": {
+        "count": 25,
+        "hallucination_rate": 1.0,
+        "looping_rate": 0.0
+      },
+      "white_noise": {
+        "count": 15,
+        "hallucination_rate": 1.0,
+        "looping_rate": 0.0
+      },
+      "pink_noise": {
+        "count": 15,
+        "hallucination_rate": 1.0,
+        "looping_rate": 0.0
+      }
+    }
+  },
+  "length_analysis": {
+    "by_duration": {
+      "1": 1.0,
+      "2": 1.0,
+      "5": 1.0,
+      "10": 1.0,
+      "15": 1.0,
+      "20": 1.0,
+      "25": 1.0,
+      "30": 1.0
+    }
+  },
+  "param_sensitivity": [
+    {
+      "param_name": "no_speech_threshold",
+      "param_value": 0.1,
+      "transcription": "Thank you.",
+      "is_hallucination": true,
+      "char_count": 10
+    },
+    {
+      "param_name": "no_speech_threshold",
+      "param_value": 0.3,
+      "transcription": "Thank you.",
+      "is_hallucination": true,
+      "char_count": 10
+    },
+    {
+      "param_name": "no_speech_threshold",
+      "param_value": 0.5,
+      "transcription": "Thank you.",
+      "is_hallucination": true,
+      "char_count": 10
+    },
+    {
+      "param_name": "no_speech_threshold",
+      "param_value": 0.6,
+      "transcription": "Thank you.",
+      "is_hallucination": true,
+      "char_count": 10
+    },
+    {
+      "param_name": "no_speech_threshold",
+      "param_value": 0.7,
+      "transcription": "Thank you.",
+      "is_hallucination": true,
+      "char_count": 10
+    },
+    {
+      "param_name": "no_speech_threshold",
+      "param_value": 0.8,
+      "transcription": "Thank you.",
+      "is_hallucination": true,
+      "char_count": 10
+    },
+    {
+      "param_name": "no_speech_threshold",
+      "param_value": 0.9,
+      "transcription": "Thank you.",
+      "is_hallucination": true,
+      "char_count": 10
+    }
+  ],
+  "postprocess_comparison": {
+    "avg_original_len": 9.3,
+    "avg_deloop_len": 9.3,
+    "avg_boh_len": 0.0,
+    "avg_combined_len": 0.0
+  }
+}

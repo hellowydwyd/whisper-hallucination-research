@@ -1,0 +1,146 @@
+﻿id,type,duration,source,raw_output,raw_is_hallucination,raw_char_count,vad_has_speech,vad_output,vad_is_hallucination,vad_char_count,boh_output,boh_is_hallucination,boh_char_count,combined_output,combined_is_hallucination,combined_char_count
+silence_1s_0,silence,1.0,synthetic,Thank you.,True,10,False,,False,0,,False,0,,False,0
+silence_1s_1,silence,1.0,synthetic,Thank you.,True,10,False,,False,0,,False,0,,False,0
+silence_1s_2,silence,1.0,synthetic,Thank you.,True,10,False,,False,0,,False,0,,False,0
+silence_5s_0,silence,5.0,synthetic,Thank you.,True,10,False,,False,0,,False,0,,False,0
+silence_5s_1,silence,5.0,synthetic,Thank you.,True,10,False,,False,0,,False,0,,False,0
+silence_5s_2,silence,5.0,synthetic,Thank you.,True,10,False,,False,0,,False,0,,False,0
+silence_10s_0,silence,10.0,synthetic,Thank you.,True,10,False,,False,0,,False,0,,False,0
+silence_10s_1,silence,10.0,synthetic,Thank you.,True,10,False,,False,0,,False,0,,False,0
+silence_10s_2,silence,10.0,synthetic,Thank you.,True,10,False,,False,0,,False,0,,False,0
+silence_20s_0,silence,20.0,synthetic,Thank you.,True,10,False,,False,0,,False,0,,False,0
+silence_20s_1,silence,20.0,synthetic,Thank you.,True,10,False,,False,0,,False,0,,False,0
+silence_20s_2,silence,20.0,synthetic,Thank you.,True,10,False,,False,0,,False,0,,False,0
+silence_30s_0,silence,30.0,synthetic,you,True,3,False,,False,0,,False,0,,False,0
+silence_30s_1,silence,30.0,synthetic,you,True,3,False,,False,0,,False,0,,False,0
+silence_30s_2,silence,30.0,synthetic,you,True,3,False,,False,0,,False,0,,False,0
+white_noise_1s_0,white_noise,1.0,synthetic,Thank you.,True,10,True,Thank you.,True,10,,False,0,,False,0
+white_noise_1s_1,white_noise,1.0,synthetic,Thank you.,True,10,True,Thank you.,True,10,,False,0,,False,0
+white_noise_1s_2,white_noise,1.0,synthetic,Thank you.,True,10,True,Thank you.,True,10,,False,0,,False,0
+white_noise_5s_0,white_noise,5.0,synthetic,Thank you.,True,10,True,Thank you.,True,10,,False,0,,False,0
+white_noise_5s_1,white_noise,5.0,synthetic,Thank you.,True,10,True,Thank you.,True,10,,False,0,,False,0
+white_noise_5s_2,white_noise,5.0,synthetic,Thank you.,True,10,True,Thank you.,True,10,,False,0,,False,0
+white_noise_10s_0,white_noise,10.0,synthetic,Thank you.,True,10,True,Thank you.,True,10,,False,0,,False,0
+white_noise_10s_1,white_noise,10.0,synthetic,Thank you.,True,10,True,Thank you.,True,10,,False,0,,False,0
+white_noise_10s_2,white_noise,10.0,synthetic,Thank you.,True,10,True,Thank you.,True,10,,False,0,,False,0
+white_noise_20s_0,white_noise,20.0,synthetic,Thank you.,True,10,True,Thank you.,True,10,,False,0,,False,0
+white_noise_20s_1,white_noise,20.0,synthetic,Thank you.,True,10,True,Thank you.,True,10,,False,0,,False,0
+white_noise_20s_2,white_noise,20.0,synthetic,Thank you.,True,10,True,Thank you.,True,10,,False,0,,False,0
+white_noise_30s_0,white_noise,30.0,synthetic,Thank you.,True,10,True,Thank you.,True,10,,False,0,,False,0
+white_noise_30s_1,white_noise,30.0,synthetic,Thank you.,True,10,True,Thank you.,True,10,,False,0,,False,0
+white_noise_30s_2,white_noise,30.0,synthetic,Thank you.,True,10,True,Thank you.,True,10,,False,0,,False,0
+pink_noise_1s_0,pink_noise,1.0,synthetic,Thank you.,True,10,True,Thank you.,True,10,,False,0,,False,0
+pink_noise_1s_1,pink_noise,1.0,synthetic,Thank you.,True,10,True,Thank you.,True,10,,False,0,,False,0
+pink_noise_1s_2,pink_noise,1.0,synthetic,Thank you.,True,10,True,Thank you.,True,10,,False,0,,False,0
+pink_noise_5s_0,pink_noise,5.0,synthetic,Thank you.,True,10,True,Thank you.,True,10,,False,0,,False,0
+pink_noise_5s_1,pink_noise,5.0,synthetic,Thank you.,True,10,True,Thank you.,True,10,,False,0,,False,0
+pink_noise_5s_2,pink_noise,5.0,synthetic,Thank you.,True,10,True,Thank you.,True,10,,False,0,,False,0
+pink_noise_10s_0,pink_noise,10.0,synthetic,Thank you.,True,10,True,Thank you.,True,10,,False,0,,False,0
+pink_noise_10s_1,pink_noise,10.0,synthetic,Thank you.,True,10,True,Thank you.,True,10,,False,0,,False,0
+pink_noise_10s_2,pink_noise,10.0,synthetic,Thank you.,True,10,True,Thank you.,True,10,,False,0,,False,0
+pink_noise_20s_0,pink_noise,20.0,synthetic,Thank you.,True,10,True,Thank you.,True,10,,False,0,,False,0
+pink_noise_20s_1,pink_noise,20.0,synthetic,Thank you.,True,10,True,Thank you.,True,10,,False,0,,False,0
+pink_noise_20s_2,pink_noise,20.0,synthetic,Thank you.,True,10,True,Thank you.,True,10,,False,0,,False,0
+pink_noise_30s_0,pink_noise,30.0,synthetic,Thank you.,True,10,True,Thank you.,True,10,,False,0,,False,0
+pink_noise_30s_1,pink_noise,30.0,synthetic,Thank you.,True,10,True,Thank you.,True,10,,False,0,,False,0
+pink_noise_30s_2,pink_noise,30.0,synthetic,Thank you.,True,10,True,Thank you.,True,10,,False,0,,False,0
+4-161579-A-40,esc50,5.0,esc50,you,True,3,True,you,True,3,,False,0,,False,0
+1-47714-A-16,esc50,5.0,esc50,Thanks for watching!,True,20,True,Thanks for watching!,True,20,!,True,1,!,True,1
+1-17092-A-27,esc50,5.0,esc50,Thank you.,True,10,False,,False,0,,False,0,,False,0
+4-201300-A-31,esc50,5.0,esc50,Thank you.,True,10,False,,False,0,,False,0,,False,0
+2-139748-B-15,esc50,5.0,esc50,Thank you.,True,10,False,,False,0,,False,0,,False,0
+2-118625-A-30,esc50,5.0,esc50,you,True,3,True,you,True,3,,False,0,,False,0
+2-109231-B-9,esc50,5.0,esc50,BANG! BANG! BANG! BANG! BANG! BANG!,True,35,True,BANG! BANG! BANG! BANG! BANG! BANG!,True,35,BANG!,True,5,BANG!,True,5
+1-57163-A-38,esc50,5.0,esc50,,False,0,False,,False,0,,False,0,,False,0
+4-198360-A-49,esc50,5.0,esc50,Thank you.,True,10,True,Thank you.,True,10,,False,0,,False,0
+1-43807-A-47,esc50,5.0,esc50,,False,0,True,,False,0,,False,0,,False,0
+4-175845-A-43,esc50,5.0,esc50,,False,0,True,,False,0,,False,0,,False,0
+4-200330-A-6,esc50,5.0,esc50,"Oh, my God.",True,11,True,"Oh, my God.",True,11,"Oh, my God.",True,11,"Oh, my God.",True,11
+5-216214-A-13,esc50,5.0,esc50,Thank you.,True,10,False,,False,0,,False,0,,False,0
+3-180256-A-0,esc50,5.0,esc50,,False,0,True,,False,0,,False,0,,False,0
+1-34119-B-1,esc50,5.0,esc50,,False,0,False,,False,0,,False,0,,False,0
+4-111671-B-42,esc50,5.0,esc50,,False,0,True,,False,0,,False,0,,False,0
+3-118658-A-41,esc50,5.0,esc50,,False,0,True,,False,0,,False,0,,False,0
+1-17742-A-12,esc50,5.0,esc50,Thank you.,True,10,False,,False,0,,False,0,,False,0
+1-17295-A-29,esc50,5.0,esc50,,False,0,True,,False,0,,False,0,,False,0
+1-38559-A-14,esc50,5.0,esc50,Thank you.,True,10,False,,False,0,,False,0,,False,0
+2-108017-A-24,esc50,5.0,esc50,,False,0,True,,False,0,,False,0,,False,0
+2-112213-B-39,esc50,5.0,esc50,Thank you.,True,10,True,Thank you.,True,10,,False,0,,False,0
+3-155570-A-32,esc50,5.0,esc50,Thank you.,True,10,False,,False,0,,False,0,,False,0
+4-126532-A-18,esc50,5.0,esc50,,False,0,True,,False,0,,False,0,,False,0
+1-17150-A-12,esc50,5.0,esc50,,False,0,True,,False,0,,False,0,,False,0
+3-246513-A-16,esc50,5.0,esc50,,False,0,True,,False,0,,False,0,,False,0
+2-102414-E-17,esc50,5.0,esc50,Thank you.,True,10,True,Thank you.,True,10,,False,0,,False,0
+4-188703-C-8,esc50,5.0,esc50,Dad. Dad.,True,9,True,Dad. Dad.,True,9,Dad. Dad.,True,9,Dad. Dad.,True,9
+4-165813-B-19,esc50,5.0,esc50,Thank you.,True,10,True,Thank you.,True,10,,False,0,,False,0
+4-185415-A-21,esc50,5.0,esc50,Thank you.,True,10,True,Thank you.,True,10,,False,0,,False,0
+3-118194-A-33,esc50,5.0,esc50,,False,0,False,,False,0,,False,0,,False,0
+2-108763-A-9,esc50,5.0,esc50,Ha! Ha! Ha! Ha!,True,15,True,Ha! Ha! Ha! Ha!,True,15,Ha!,True,3,Ha!,True,3
+3-134802-A-13,esc50,5.0,esc50,Thank you.,True,10,True,Thank you.,True,10,,False,0,,False,0
+4-107122-A-33,esc50,5.0,esc50,,False,0,True,,False,0,,False,0,,False,0
+2-141681-A-36,esc50,5.0,esc50,Thank you.,True,10,True,Thank you.,True,10,,False,0,,False,0
+5-178997-A-24,esc50,5.0,esc50,"Cough, cough, cough. Cough, cough, cough.",True,41,True,"Cough, cough, cough. Cough, cough, cough.",True,41,"Cough, cough, cough. Cough, cough, cough.",True,41,"Cough, cough, cough. Cough, cough, cough.",True,41
+5-208030-A-0,esc50,5.0,esc50,Ruff ruff! Ruff ruff! Ruff! Ruff ruff ruff! Ruff ruff!,True,54,True,Ruff ruff! Ruff ruff! Ruff! Ruff ruff ruff! Ruff ruff!,True,54,Ruff ruff! Ruff ruff! Ruff! Ruff ruff ruff! Ruff ruff!,True,54,Ruff ruff! Ruff ruff! Ruff! Ruff ruff ruff! Ruff ruff!,True,54
+1-105224-A-22,esc50,5.0,esc50,Thank you.,True,10,True,Thank you.,True,10,,False,0,,False,0
+4-213193-A-29,esc50,5.0,esc50,Thank you.,True,10,False,,False,0,,False,0,,False,0
+5-177614-A-5,esc50,5.0,esc50,Meow. Meow.,True,11,True,Meow. Meow.,True,11,Meow. Meow.,True,11,Meow. Meow.,True,11
+1-69422-A-3,esc50,5.0,esc50,,False,0,True,,False,0,,False,0,,False,0
+4-183882-A-28,esc50,5.0,esc50,.,True,1,True,.,True,1,.,True,1,.,True,1
+3-118658-B-41,esc50,5.0,esc50,,False,0,True,,False,0,,False,0,,False,0
+2-70344-A-33,esc50,5.0,esc50,You,True,3,True,You,True,3,,False,0,,False,0
+1-67033-A-37,esc50,5.0,esc50,Beep. Beep. Beep. Beep. Beep. Beep.,True,35,False,,False,0,Beep.,True,5,,False,0
+2-106487-A-44,esc50,5.0,esc50,Thank you.,True,10,True,Thank you.,True,10,,False,0,,False,0
+5-253094-D-49,esc50,5.0,esc50,,False,0,True,,False,0,,False,0,,False,0
+4-218199-C-35,esc50,5.0,esc50,Thanks for watching!,True,20,True,Thanks for watching!,True,20,!,True,1,!,True,1
+2-68595-A-15,esc50,5.0,esc50,Thank you.,True,10,False,,False,0,,False,0,,False,0
+1-36929-A-47,esc50,5.0,esc50,Thank you.,True,10,True,Thank you.,True,10,,False,0,,False,0
+2-92627-A-27,esc50,5.0,esc50,,False,0,False,,False,0,,False,0,,False,0
+1-39937-A-28,esc50,5.0,esc50,,False,0,True,,False,0,,False,0,,False,0
+2-80313-A-28,esc50,5.0,esc50,,False,0,True,,False,0,,False,0,,False,0
+5-198600-A-45,esc50,5.0,esc50,Thanks for watching!,True,20,True,Thanks for watching!,True,20,!,True,1,!,True,1
+2-72547-A-14,esc50,5.0,esc50,Thank you.,True,10,True,Thank you.,True,10,,False,0,,False,0
+4-132383-A-2,esc50,5.0,esc50,Ooo. Happy birthday Ach-ch به-laskhe-cha.,True,41,True,Ooo. Happy birthday Ach-ch به-laskhe-cha.,True,41,Ooo. Happy birthday Ach-ch به-laskhe-cha.,True,41,Ooo. Happy birthday Ach-ch به-laskhe-cha.,True,41
+2-128465-B-43,esc50,5.0,esc50,,False,0,True,,False,0,,False,0,,False,0
+5-177957-A-40,esc50,5.0,esc50,,False,0,True,,False,0,,False,0,,False,0
+1-196660-B-8,esc50,5.0,esc50,,False,0,True,,False,0,,False,0,,False,0
+4-195305-A-31,esc50,5.0,esc50,Thank you.,True,10,False,,False,0,,False,0,,False,0
+3-141559-A-45,esc50,5.0,esc50,Thank you.,True,10,True,Thank you.,True,10,,False,0,,False,0
+3-170312-A-31,esc50,5.0,esc50,Thank you.,True,10,False,,False,0,,False,0,,False,0
+1-51805-D-33,esc50,5.0,esc50,,False,0,True,,False,0,,False,0,,False,0
+5-263775-A-26,esc50,5.0,esc50,What?,True,5,True,What?,True,5,What?,True,5,What?,True,5
+5-234879-A-1,esc50,5.0,esc50,,False,0,True,,False,0,,False,0,,False,0
+2-89516-A-37,esc50,5.0,esc50,,False,0,True,,False,0,,False,0,,False,0
+1-30709-C-23,esc50,5.0,esc50,,False,0,True,,False,0,,False,0,,False,0
+3-188726-A-35,esc50,5.0,esc50,Thanks for watching!,True,20,True,Thanks for watching!,True,20,!,True,1,!,True,1
+2-18766-A-12,esc50,5.0,esc50,Thank you.,True,10,False,,False,0,,False,0,,False,0
+5-191131-A-40,esc50,5.0,esc50,Thank you.,True,10,True,Thank you.,True,10,,False,0,,False,0
+4-156993-A-19,esc50,5.0,esc50,.,True,1,True,.,True,1,.,True,1,.,True,1
+4-147658-A-46,esc50,5.0,esc50,Thank you.,True,10,True,Thank you.,True,10,,False,0,,False,0
+5-214759-A-5,esc50,5.0,esc50,Meow! Meow!,True,11,True,Meow! Meow!,True,11,Meow! Meow!,True,11,Meow! Meow!,True,11
+5-204352-A-13,esc50,5.0,esc50,Thank you.,True,10,True,Thank you.,True,10,,False,0,,False,0
+2-81270-A-1,esc50,5.0,esc50,,False,0,True,,False,0,,False,0,,False,0
+3-92637-A-18,esc50,5.0,esc50,Thank you.,True,10,True,Thank you.,True,10,,False,0,,False,0
+1-977-A-39,esc50,5.0,esc50,Thanks for watching!,True,20,True,Thanks for watching!,True,20,!,True,1,!,True,1
+4-186518-A-30,esc50,5.0,esc50,,False,0,True,,False,0,,False,0,,False,0
+1-27165-A-35,esc50,5.0,esc50,Thank you.,True,10,True,Thank you.,True,10,,False,0,,False,0
+1-19898-B-41,esc50,5.0,esc50,,False,0,True,,False,0,,False,0,,False,0
+4-170247-A-12,esc50,5.0,esc50,Thank you.,True,10,True,Thank you.,True,10,,False,0,,False,0
+2-109759-A-26,esc50,5.0,esc50,"Like, comment, subscribe.",True,25,True,"Like, comment, subscribe.",True,25,"Like, comment, subscribe.",True,25,"Like, comment, subscribe.",True,25
+4-251959-A-47,esc50,5.0,esc50,.,True,1,True,.,True,1,.,True,1,.,True,1
+2-166644-B-2,esc50,5.0,esc50,,False,0,True,,False,0,,False,0,,False,0
+1-31251-A-6,esc50,5.0,esc50,"Ha, ha, ha, ha, ha, ha, ha.",True,27,True,"Ha, ha, ha, ha, ha, ha, ha.",True,27,"Ha, ha, ha.",True,11,"Ha, ha, ha.",True,11
+5-201172-A-46,esc50,5.0,esc50,© BF-WATCH TV 2021,True,18,True,© BF-WATCH TV 2021,True,18,© BF-WATCH TV 2021,True,18,© BF-WATCH TV 2021,True,18
+5-207811-A-35,esc50,5.0,esc50,Thank you.,True,10,True,Thank you.,True,10,,False,0,,False,0
+1-43382-A-1,esc50,5.0,esc50,"Aqua, Neeeerrrrrrrrrrrr Subscribe",True,33,True,"Aqua, Neeeerrrrrrrrrrrr Subscribe",True,33,"Aqua, Neeeerrrrrrrrrrrr Subscribe",True,33,"Aqua, Neeeerrrrrrrrrrrr Subscribe",True,33
+3-138212-A-45,esc50,5.0,esc50,Thanks for watching!,True,20,True,Thanks for watching!,True,20,!,True,1,!,True,1
+4-161100-A-47,esc50,5.0,esc50,,False,0,True,,False,0,,False,0,,False,0
+5-194899-C-3,esc50,5.0,esc50,Rrrrrrrrrrrrrrrr!,True,17,True,Rrrrrrrrrrrrrrrr!,True,17,Rrrrrrrrrrrrrrrr!,True,17,Rrrrrrrrrrrrrrrr!,True,17
+2-82274-A-5,esc50,5.0,esc50,Meow! Meow!,True,11,True,Meow! Meow!,True,11,Meow! Meow!,True,11,Meow! Meow!,True,11
+1-72195-B-37,esc50,5.0,esc50,,False,0,True,,False,0,,False,0,,False,0
+2-84693-A-49,esc50,5.0,esc50,Thank you.,True,10,True,Thank you.,True,10,,False,0,,False,0
+2-78381-A-46,esc50,5.0,esc50,.,True,1,True,.,True,1,.,True,1,.,True,1
+2-104877-A-3,esc50,5.0,esc50,Oh,True,2,True,Oh,True,2,Oh,True,2,Oh,True,2
+4-172734-A-36,esc50,5.0,esc50,Thanks for watching!,True,20,True,Thanks for watching!,True,20,!,True,1,!,True,1
+2-131943-A-38,esc50,5.0,esc50,Thank you.,True,10,True,Thank you.,True,10,,False,0,,False,0
+4-185575-A-20,esc50,5.0,esc50,oh yeah,True,7,True,oh yeah,True,7,oh yeah,True,7,oh yeah,True,7
+5-243449-A-14,esc50,5.0,esc50,Thank you.,True,10,True,Thank you.,True,10,,False,0,,False,0

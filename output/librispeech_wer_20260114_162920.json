@@ -1,0 +1,11 @@
+{
+  "model": "large-v3",
+  "dataset": "LibriSpeech test-clean",
+  "total_samples": 2620,
+  "total_words": 52576,
+  "overall_wer": 0.03707014607425441,
+  "overall_cer": 0.017406122659532758,
+  "wer_std": 0.1418304103429204,
+  "wer_median": 0.0,
+  "perfect_rate": 0.6793893129770993
+}
